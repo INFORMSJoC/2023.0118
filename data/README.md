@@ -1,1 +1,1 @@
-This folder contains the raw data for the results presented in each section. The meaning of each column of the data can be found in the data storage format of the Run.m file of the corresponding algorithm.
+This folder contains the raw data for the results presented in each section. The meaning of each column of the data can be found in the data storage format of the Run.m file of the corresponding algorithm. To facilitate the presentation of results, we provide the file save_MSE_XXX.m to integrate raw data into .csv format.
