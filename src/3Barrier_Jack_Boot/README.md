@@ -8,4 +8,4 @@ ResultNestedBUaO.m, ResultJackNestedBUaO.m and Result2JackNestedBUaO.m calculate
 
 RunResultNestedBUaO.m, RunResultJackNestedBUaO.m and RunResult2JackNestedBUaO.m repeat the estimates to calculate the empirical MSE.
 
-Users can adjust different d (denote the number of the stocks) in the RunResultNestedBUaO.m (RunResultJackNestedBUaO.m and RunResult2JackNestedBUaO.m), the corresponding true value is obtained from the fold 'TureValue_3Barrier_Option'.
+Users can adjust different d (denote the number of the stocks) in the RunResultNestedBUaO.m (RunResultJackNestedBUaO.m and RunResult2JackNestedBUaO.m), the corresponding true value is obtained from the folder 'TureValue_3Barrier_Option'.

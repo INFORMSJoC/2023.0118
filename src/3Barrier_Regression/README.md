@@ -10,4 +10,4 @@ RegResultBUaO.m calcluate the estimates for three loss.
 
 RunRegResultBUaO.m repeat the estimates for many times to calculate the empirical MSE.
 
-Users can adjust different d (denote the number of the stocks) in the RunRegResultBUaO.m, the corresponding true value is obtained from the fold 'TureValue_3Barrier_Option'.
+Users can adjust different d (denote the number of the stocks) in the RunRegResultBUaO.m, the corresponding true value is obtained from the folder 'TureValue_3Barrier_Option'.

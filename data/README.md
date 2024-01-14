@@ -1,0 +1,1 @@
+This folder contains the raw data for the results presented in each section. The meaning of each column of the data can be found in the data storage format of the Run.m file of the corresponding algorithm.

@@ -8,4 +8,4 @@ AdaptiveNonuniform.m calculate the estimates of nested sequential method (Broadi
 
 RunAdaptiveNonuniform.m repeat the estimates for many times to calculate the empirical MSE.
 
-Users can adjust different d (denote the number of the stocks) in the RunAdaptiveNonuniform.m, the corresponding true value is obtained from the fold 'TureValue_3Barrier_Option'.
+Users can adjust different d (denote the number of the stocks) in the RunAdaptiveNonuniform.m, the corresponding true value is obtained from the folder 'TureValue_3Barrier_Option'.
