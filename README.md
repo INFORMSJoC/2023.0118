@@ -34,7 +34,11 @@ The goal of this software is to demonstrate the effect of the jackkniFe-bAsed ne
 
 
 
-Nested estimation involves estimating an expectation of a function of a conditional expectation, and has many important applications in operations research and machine learning. However, the mean squared error (MSE) of the standard nested simulation (SNS) is only of order $\Gamma^{-2/3}$, where $\Gamma$ is the total simulation budget. Our proposed FAST method improves the convergence speed to $\Gamma^{-4/5}$.
+Nested estimation involves estimating an expectation of a function of a conditional expectation, and has many important applications in operations research and machine learning. However, the mean squared error (MSE) of the standard nested simulation (SNS) is only of order $\Gamma^{-2/3}$, where $\Gamma$ is the total simulation budget. Our proposed FAST method improves the convergence speed to $\Gamma^{-4/5}$. 
+
+
+
+Each folder contains a README.md file for more specific information.
 
 ## Codes
 
@@ -52,7 +56,6 @@ The programming language is Matlab. The folder `src` provides all the codes for 
 
 - Folder `Figure_Generate` helps us generate the figures in the paper.
 
-  Each folder contains a README.md file for more specific information.
 
 ## Results
 
