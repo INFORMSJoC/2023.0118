@@ -19,7 +19,7 @@ Below is the BibTex for citing this snapshot of the repository.
 
 ```
 @article{Liang2024FAST,
-  author =        {Guo Liang, Jun Luo, and Kun Zhang},
+  author =        {Liang, Guo and Luo, Jun and Zhang, Kun},
   publisher =     {INFORMS Journal on Computing},
   title =         {A FAST Method for Nested Estimation},
   year =          {2024},
