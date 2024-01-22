@@ -65,7 +65,7 @@ The main results of the original paper are presented in the folder [result](http
 
 To replicate the results in the paper, proceed as follows: 
 
-1. For different methods, run the RunXXX.m to obtain the raw data (XXX and methods correspond. For example, RunResultJackNestedBUaO.m corresponds to the FAST method in Example 1). Parameters can be adjusted to suit your purpose, such as the number of replications `rep`, the number of stocks `d`, etc. In addition, the user can empirically adjust the `threshold` to avoid extreme cases (the estimated inner sample size is too small), e.g., the threshold can be set to 5 or 10.
+1. For different methods, run the RunXXX.m to obtain the raw data (XXX and methods correspond. For example, RunResultJackNestedBUaO.m corresponds to the FAST method in Example 1). Parameters can be adjusted to suit your purpose, such as the number of replications `rep`, the number of stocks `d`, etc. In addition, the user can empirically adjust the `threshold` to avoid rare extreme cases where the estimated inner sample size is too small, e.g., the threshold can be set to 5 or 10.
 2. (Optional) Run save_MSE_Prob.m (Prob can be substituted) to organize the raw data and get the file `.csv`.
 3. (Optional) Run the file `MSE_Rate.m` in the folder [Figure_Generate](https://github.com/LiangGuoRUC/2023.0118/tree/main/src/Figure_Generate) to replicate the figures.
 
