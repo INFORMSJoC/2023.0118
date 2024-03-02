@@ -5,7 +5,7 @@
 This archive is distributed in association with the [INFORMS Journal on
 Computing](https://pubsonline.informs.org/journal/ijoc) under the [MIT License](LICENSE).
 
-The software and data in this repository are a snapshot of the software and data that were used in the research reported on in the paper [A FAST Method for Nested Estimation](https://doi.org/10.1287/ijoc.2023.0118) by Guo Liang, Jun Luo and Kun Zhang.
+The software and data in this repository are a snapshot of the software and data that were used in the research reported on in the paper [A FAST Method for Nested Estimation](https://doi.org/10.1287/ijoc.2023.0118) by Guo Liang, Kun Zhang and Jun Luo.
 
 ## Cite
 
@@ -19,7 +19,7 @@ Below is the BibTex for citing this snapshot of the repository.
 
 ```
 @article{Liang2024FAST,
-  author =        {Liang, Guo and Luo, Jun and Zhang, Kun},
+  author =        {Liang, Guo and Zhang, Kun and Luo, Jun},
   publisher =     {INFORMS Journal on Computing},
   title =         {Github repository: A {FAST} method for nested estimation.},
   year =          {2024},
@@ -30,7 +30,7 @@ Below is the BibTex for citing this snapshot of the repository.
 
 ## Description
 
-The goal of this software is to demonstrate the effect of the jackkniFe-bAsed neSted simulaTion (FAST) method proposed in "A FAST Method for Nested Estimation" by Guo Liang, Jun Luo and Kun Zhang. 
+The goal of this software is to demonstrate the effect of the jackkniFe-bAsed neSted simulaTion (FAST) method proposed in "A FAST Method for Nested Estimation" by Guo Liang, Kun Zhang and Jun Luo. 
 
 
 
@@ -44,7 +44,7 @@ Each folder contains a README.md file for more specific information.
 
 The programming language is Matlab. The folder [src](https://github.com/LiangGuoRUC/2023.0118/tree/main/src) provides all the codes for the numerical experiments in the original paper. Specifically, under this file path,
 
-- Folder [3Barrier_Jack_Boot](https://github.com/LiangGuoRUC/2023.0118/tree/main/src/3Barrier_Jack_Boot) includes the SNS , FAST and 2-FAST methods for Example 1 of the paper.
+- Folder [3Barrier_Jack_Boot](https://github.com/LiangGuoRUC/2023.0118/tree/main/src/3Barrier_Jack_Boot) includes the SNS, FAST and 2-FAST methods for Example 1 of the paper.
 
 - Folder [3Barrier_Regression](https://github.com/LiangGuoRUC/2023.0118/tree/main/src/3Barrier_Regression) includes the least-squares method (LSM) for Example 1 of the paper.
 
